@@ -1,0 +1,24 @@
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\bin\Debug\Timer Alarm.exe
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\bin\Debug\Timer Alarm.pdb
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer_Alarm.Form1.resources
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer_Alarm.Properties.Resources.resources
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer Alarm.exe
+c:\users\home48\documents\visual studio 2010\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer Alarm.pdb
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Timer Alarm\Timer Alarm\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Timer Alarm\Timer Alarm\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Timer Alarm\Timer Alarm\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Timer Alarm\Timer Alarm\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer Alarm.exe
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer Alarm.pdb
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\bin\Debug\Timer Alarm.exe
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\bin\Debug\Timer Alarm.pdb
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer Alarm.csprojResolveAssemblyReference.cache
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer_Alarm.Form1.resources
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer_Alarm.Properties.Resources.resources
+D:\Sunnie\Projects\Timer Alarm\Timer Alarm\obj\x86\Debug\Timer Alarm.csproj.GenerateResource.Cache
